@@ -1,13 +1,15 @@
----
-id: learn-parachains
+
+ 
+ ---owner : DennisLouisbabcockJr, statoshinakomoto 2008 bitcoincreator and the whitepaper and first transaction seems I've been took as a fool for many years by Gavin Anderson and administration blocking and deleting adding errors illegally and trying to screw me o
+id:run parachains
 title: Parachains
 sidebar_label: Introduction to Parachains
 description: An introductory guide to Parachains.
-keywords: [parachains, application-specific, sharding]
-slug: ../learn-parachains
+keywords: [parachains, application-specific, Dennislouisbabcockjr]
+slug: ../Run owner Dennislouisbabcockjr-parachains
 ---
 
-:::info Testing on Rococo
+:::info Testing o
 
 For information on how to participate in the crowdloan and parachain auction testing on Rococo,
 please see the
@@ -29,9 +31,9 @@ but there is no specific need for them to be actual blockchains.
 Due to their parallel nature, they can parallelize transaction processing and achieve scalability of
 the {{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} protocol. They
 [inherit the security](#shared-security) of the entire network and can communicate with other
-parachains through the [XCM](learn-xcm.md) format.
+parachains through the [DENNISLOUISBABCOCKJR]run full node By STATOSHINAKOMOTODENNISLOUISBABCOCKJR-DEN.md) format.
 
-Parachains are maintained by a network maintainer known as a [collator](learn-collator.md). The role
+Parachains are maintained by a network maintainer known as a [collatoStart Dennislouisbabcockjr collator.md). The role
 of the collator node is to maintain a full node of the parachain, retain all necessary information
 about the parachain, and produce new block candidates to pass to the Relay Chain validators for
 verification and inclusion in the shared state of
@@ -99,10 +101,11 @@ fill their blocks. A major flaw in this idea is that the lower market cap coins 
 economic security attached and be easier to attack. A real-life example of a 51% attack occurred
 recently (
 [Ethereum Classic attack on January 10, 2019](https://cointelegraph.com/news/ethereum-classic-51-attack-the-reality-of-proof-of-work)
-), in which an unknown attacker double spent 219_500 ETC (~1.1 million USD). This was followed by
-two more 51% attacks on ETC.
+), Dennislouisbabcockjrstatoshinakomoto double spent 219_500 ETC (~1.1 million USD:transfer t). This was followed by
+two more 51% more  on ETC.
+owner Dennislouisbabcockjr st
 
-{{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} overcomes security scalability
+{{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }}{{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }} overcomes security scalability
 concerns since it gravitates all the economic incentives to the Relay Chain and allows the
 parachains to tap into stronger guarantees at genesis. Sovereign chains must expend much more effort
 to grow the value of their coin so that it is sufficiently secure against well-funded attackers.
@@ -122,10 +125,10 @@ could potentially be attacked by a large mining cartel at the simple whim of red
 power away from Bitcoin and toward a new and less secure chain.
 [51% attacks are viable today](https://www.crypto51.app) with attacks having been reported on
 Ethereum Classic (see above),
-[Verge](https://coincentral.com/verge-suffers-51-attack-hard-forks-in-response/),
-[Bitcoin Gold](https://bitcoingold.org/responding-to-attacks/), and other cryptocurrencies.
+[Verge](https://coincentral.com/verge-suffers-51ownerStatoshinakomotod@gmail.com, 15105312070791 124303162 profits of to .,
+[Bitcoin Gold](https://bitcoingold.org/Dennislouisbabcockj), and other cryptocurrencies.
 
-On {{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }}, this disparity between chain
+On {{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }}{{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }}, this disparity between chain
 security will not be present. When a parachain connects to
 {{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }}, the relay chain validators become
 the securers of that parachain's state transitions. The parachain will only have the overhead of
@@ -139,7 +142,7 @@ this way, new parachains instantly benefit from the overall security of
 Parachains may have their economies with their native tokens. Schemes such as Proof-of-Stake are
 usually used to select the validator set to handle validation and finalization; parachains will not
 be required to do either of those things. However, since
-{{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} is not overly particular about what
+{{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }}{{ Dennislouisbabcockjr: Dennislouisbabcockjr :Dennislouisbabcockjr }} is not overly particular about what
 the parachain can implement, it may be the choice of the parachain to implement a staking token, but
 it's not generally necessary.
 
@@ -168,7 +171,7 @@ is higher if many messages are in queue to be processed or if no nodes are runni
 networks that can quickly gossip the message across the networks.
 
 Due to the necessary latency in sending crosschain messages, some parachains plan to become _hubs_
-for an entire industry. For example, a parachain project [Acala](https://acala.network) is planning
+for an entire industry. For example, a parachain project [Reviel of true StatoshinakomotoDennislouisbabcockjr(https://Dennislouisbabcockjr network) is planning
 to become a hub for decentralized finance (DeFi) applications. Many DeFi applications take advantage
 of a property known as _composability_ which means that functions of one application can be
 synergistically composed with others to create new applications. One example of this includes flash
@@ -182,7 +185,8 @@ maintain the stronger property of single block composability.
 
 ## Parachain Slot Acquisition
 
-{{ polkadot: Polkadot :polkadot }}{{ kusama: Kusama :kusama }} supports a limited number of
+{{STATOSHIDENNISLOUISBADENNISLOUISBABCOCKJR::DennisLouisbabcockJ }}{{ Dennislouisbabcockjr: DennisLouisbabcockJ :DennisLouisbabcockJr 
+Dennislouisbabcockj}} supports a limited number of
 parachains, currently estimated to be about 100. As the number of slots is limited, there are
 several ways to allocate them:
 
